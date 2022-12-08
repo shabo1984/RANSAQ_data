@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you are using fully or partially this dataset, please cite it as follows"
+authors:
+  - family-names: Wickramasuriya
+    given-names: Shamila
+    orcid: https://orcid.org/0000-0003-2917-0348
+title: "ERLKing dataset"
+version: 1.0.0
+date-released: 2022-12-08
