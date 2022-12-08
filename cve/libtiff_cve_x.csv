@@ -1,0 +1,147 @@
+NUM, CVE ID,Announced Data,Affected Version,Severity (CVSS version 2.0),Category,File Version, File Path,Function Name, Link
+119,CVE-2017-9937,6/26/2017,4.0.8,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.8,/libtiff/tif_jbig.c,,https://nvd.nist.gov/vuln/detail/CVE-2017-9937
+118,CVE-2017-9936,6/26/2017,4.0.8,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.8,/libtiff/tif_jbig.c,,https://nvd.nist.gov/vuln/detail/CVE-2017-9936
+117,CVE-2017-9935,6/26/2017,4.0.8,6.8 MEDIUM,Buffer Errors (CWE-119),4.0.8,/libtiff/tools/tiff2pdf.c,t2p_write_pdf,https://nvd.nist.gov/vuln/detail/CVE-2017-9935
+116,CVE-2017-9404,6/2/2017,4.0.7,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.7,/libtiff/tif_ojpeg.c,OJPEGReadHeaderInfoSecTablesQTable,https://nvd.nist.gov/vuln/detail/CVE-2017-9404
+115,CVE-2017-9403,6/2/2017,4.0.7,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.7,/libtiff/tif_dirread.c,TIFFReadDirEntryLong8Array ,https://nvd.nist.gov/vuln/detail/CVE-2017-9403
+114,CVE-2017-9147,5/22/2017,4.0.7,4.3 MEDIUM,Out-of-bounds Read (CWE-125),4.0.7,/libtiff/tif_dir.c,_TIFFVGetField,https://nvd.nist.gov/vuln/detail/CVE-2017-9147
+113,CVE-2017-9117,5/21/2017,4.0.7,7.5 HIGH,Buffer Errors (CWE-119),4.0.7,/libtiff/tools/bmp2tiff.c,,https://nvd.nist.gov/vuln/detail/CVE-2017-9117#vulnDescriptionTitle
+110,CVE-2017-7602,4/9/2017,4.0.7,6.8 MEDIUM,Input Validation (CWE-20),4.0.7,,,https://nvd.nist.gov/vuln/detail/CVE-2017-7602#vulnDescriptionTitle
+109,CVE-2017-7601,4/9/2017,4.0.7,6.8 MEDIUM,Input Validation (CWE-20),4.0.7,,,https://nvd.nist.gov/vuln/detail/CVE-2017-7601
+108,CVE-2017-7600,4/9/2017,4.0.7,6.8 MEDIUM,Input Validation (CWE-20),4.0.7,,,https://nvd.nist.gov/vuln/detail/CVE-2017-7600
+107,CVE-2017-7599,4/9/2017,4.0.7,6.8 MEDIUM,Input Validation (CWE-20),4.0.7,,,https://nvd.nist.gov/vuln/detail/CVE-2017-7599
+106,CVE-2017-7598,4/9/2017,4.0.7,4.3 MEDIUM,Divide By Zero (CWE-369),4.0.7,/libtiff/tif_dirread.c ,,https://nvd.nist.gov/vuln/detail/CVE-2017-7598#vulnDescriptionTitle
+105,CVE-2017-7597,4/9/2017,4.0.7,6.8 MEDIUM,Input Validation (CWE-20),4.0.7,/libtiff/tif_dirread.c ,TIFFReadDirEntryCheckedRational and TIFFReadDirEntryCheckedSrational,https://nvd.nist.gov/vuln/detail/CVE-2017-7597
+104,CVE-2017-7596,4/9/2017,4.0.7,6.8 MEDIUM,Input Validation (CWE-20),4.0.7,/libtiff/tif_dirread.c,,https://nvd.nist.gov/vuln/detail/CVE-2017-7596#vulnDescriptionTitle
+103,CVE-2017-7595,4/9/2017,4.0.7,4.3 MEDIUM,Divide By Zero (CWE-369),4.0.7,/libtiff/tif_jpeg.c,JPEGSetupEncode ,https://nvd.nist.gov/vuln/detail/CVE-2017-7595
+102,CVE-2017-7594,4/9/2017,4.0.7,4.3 MEDIUM,Uncontrolled Resource Consumption ('Resource Exhaustion') (CWE-400),4.0.7,/libtiff/tif_ojpeg.c,OJPEGReadHeaderInfoSecTablesDcTable ,https://nvd.nist.gov/vuln/detail/CVE-2017-7594
+101,CVE-2017-7593,4/9/2017,4.0.7,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.7,libtiff/tif_read.c,,https://nvd.nist.gov/vuln/detail/CVE-2017-7593#vulnDescriptionTitle
+100,CVE-2017-7592,4/9/2017,4.0.7,6.8 MEDIUM,Input Validation (CWE-20),4.0.7,libtiff/tif_getimage.c,DECLAREContigPutFunc (putagreytile),https://nvd.nist.gov/vuln/detail/CVE-2017-7592
+82,CVE-2017-5563,1/23/2017,4.0.7,6.8 MEDIUM,Buffer Errors (CWE-119),4.0.7,/libtiff/tif_lzw.c,LZWEncode,https://nvd.nist.gov/vuln/detail/CVE-2017-5563
+125,CVE-2017-13727,8/29/2017,4.0.8,4.3 MEDIUM,Input Validation (CWE-20),4.0.8,/libtiff/tif_dirwrite.c ,TIFFWriteDirectoryTagSubifd,https://nvd.nist.gov/vuln/detail/CVE-2017-13727
+126,CVE-2017-13726,8/29/2017,4.0.8,4.3 MEDIUM,Input Validation (CWE-20),4.0.8,/libtiff/tif_dirwrite.c ,TIFFWriteDirectorySec,https://nvd.nist.gov/vuln/detail/CVE-2017-13726
+124,CVE-2017-12944,8/18/2017,4.0.8,5.0 MEDIUM,Resource Management Errors (CWE-399),4.0.8,/libtiff/tif_dirread.c ,TIFFReadDirEntryArray,https://nvd.nist.gov/vuln/detail/CVE-2017-12944
+123,CVE-2017-11613,7/26/2017,4.0.8,4.3 MEDIUM,Input Validation (CWE-20),4.0.8,,TIFFOpen ,https://nvd.nist.gov/vuln/detail/CVE-2017-11613#vulnDescriptionTitle
+122,CVE-2017-11335,7/17/2017,4.0.8,6.8 MEDIUM,Out-of-bounds Write (CWE-787),4.0.8,/libtiff/tools/tiff2pdf.c ,,https://nvd.nist.gov/vuln/detail/CVE-2017-11335
+121,CVE-2017-10688,6/29/2017,4.0.8,5.0 MEDIUM,Input Validation (CWE-20),4.0.8,/libtiff/tif_dirwrite.c,TIFFWriteDirectoryTagCheckedLong8Array,https://nvd.nist.gov/vuln/detail/CVE-2017-10688
+71,CVE-2016-9540,11/22/2016,4.0.6,7.5 HIGH,"Buffer Errors (CWE-119)
+Out-of-bounds Write (CWE-787)",4.0.6,/libtiff/tools/tiffcp.c,cpStripToTile,https://nvd.nist.gov/vuln/detail/CVE-2016-9540
+70,CVE-2016-9539,11/22/2016,4.0.6,7.5 HIGH,"Buffer Errors (CWE-119)
+Out-of-bounds Read (CWE-125)",4.0.6 ,/libtiff/tools/tiffcrop.c,readContigTilesIntoBuffer,https://nvd.nist.gov/vuln/detail/CVE-2016-9539
+69,CVE-2016-9538,11/22/2016,4.0.6,7.5 HIGH,Integer Overflow or Wraparound (CWE-190),4.0.6,/libtiff/tools/tiffcrop.c,readContigStripsIntoBuffer,https://nvd.nist.gov/vuln/detail/CVE-2016-9538
+68,CVE-2016-9537,11/22/2016,4.0.6,7.5 HIGH,"Buffer Errors (CWE-119)
+Out-of-bounds Write (CWE-787)",4.0.6,/libtiff/tools/tiffcrop.c,,https://nvd.nist.gov/vuln/detail/CVE-2016-9537
+67,CVE-2016-9536,11/22/2016,4.0.6,7.5 HIGH,"Buffer Errors (CWE-119)
+Out-of-bounds Write (CWE-787)",4.0.6,/libtiff/tools/tiff2pdf.c,t2p_process_jpeg_strip,https://nvd.nist.gov/vuln/detail/CVE-2016-9536
+66,CVE-2016-9535,11/22/2016,4.0.6,7.5 HIGH,Buffer Errors (CWE-119),4.0.6,/libtiff/tif_predict.h and /libtiff/tif_predict.c,,https://nvd.nist.gov/vuln/detail/CVE-2016-9535
+65,CVE-2016-9534,11/22/2016,4.0.6,7.5 HIGH,Buffer Errors (CWE-119),4.0.6,/libtiff/tif_write.c,TIFFFlushData1,https://nvd.nist.gov/vuln/detail/CVE-2016-3634
+64,CVE-2016-9533,11/22/2016,4.0.6,7.5 HIGH,"Buffer Errors (CWE-119)
+Out-of-bounds Write (CWE-787)
+",4.0.6,/libtiff/tif_pixarlog.c,,https://nvd.nist.gov/vuln/detail/CVE-2016-9533
+87,CVE-2016-9532,2/6/2017,before 4.0.7,4.3 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6,/libtiff/tools/tiffcrop.c,writeBufferToSeparateStrips ,https://nvd.nist.gov/vuln/detail/CVE-2016-9532
+85,CVE-2016-9453,1/27/2017,unspecified,6.8 MEDIUM,Out-of-bounds Write (CWE-787),unspecified,/libtiff/tools/tiff2pdf.c,t2p_readwrite_pdf_image_tile,https://nvd.nist.gov/vuln/detail/CVE-2016-9453
+84,CVE-2016-9448,1/27/2017,4.0.6 ,"
+5.0 MEDIUM",NULL Pointer Dereference (CWE-476),4.0.6,libtiff/tif_dirread.c,TIFFFetchNormalTag,https://nvd.nist.gov/vuln/detail/CVE-2016-9448
+75,CVE-2016-9297,1/18/2017,4.0.6,5.0 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6 ,libtiff/tif_dirread.c,TIFFFetchNormalTag,https://nvd.nist.gov/vuln/detail/CVE-2016-9297
+74,CVE-2016-9273,1/18/2017,4.0.6,4.3 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6 ,/libtiff/tools/tiffsplit.c,cpStrips,https://nvd.nist.gov/vuln/detail/CVE-2016-9273
+63,CVE-2016-8331,10/28/2016,4.0.6,6.8 MEDIUM,Other (NVD-CWE-Other),4.0.6,/libtiff/tif_dir.c,_TIFFVSetField,https://nvd.nist.gov/vuln/detail/CVE-2016-8331
+83,CVE-2016-6223,1/23/2017, before 4.0.7,6.4 MEDIUM,Numeric Errors (CWE-189),4.0.6,/libtiff/tif_read.c,TIFFReadRawStrip1 and TIFFReadRawTile1,https://nvd.nist.gov/vuln/detail/CVE-2016-6223
+81,CVE-2016-5323,"
+01/20/2017",before 4.0.6,5.0 MEDIUM,Divide By Zero (CWE-369),4.0.6,/libtiff/tif_fax3.c,_TIFFFax3fillruns,https://nvd.nist.gov/vuln/detail/CVE-2016-5323#vulnDescriptionTitle
+111,CVE-2016-5322,4/11/2017,4.0.6 and earlier,4.3 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6,/libtiff/tif_dir.c,setByteArray,https://nvd.nist.gov/vuln/detail/CVE-2016-5322#vulnDescriptionTitle
+80,CVE-2016-5321,1/20/2017,4.0.6 and earlier,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.6,,,https://nvd.nist.gov/vuln/detail/CVE-2016-5321#vulnDescriptionTitle
+79,CVE-2016-5319,1/20/2017,4.0.6 and earlier,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.6,/libtiff/tif_packbits.c ,,https://nvd.nist.gov/vuln/detail/CVE-2016-5319
+78,CVE-2016-5318,1/20/2017,4.0.6 and earlier ,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.6,,,https://nvd.nist.gov/vuln/detail/CVE-2016-5318#vulnDescriptionTitle
+77,CVE-2016-5317,1/20/2017,4.0.6 and earlier,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.6 ,,,https://nvd.nist.gov/vuln/detail/CVE-2016-5317#vulnDescriptionTitle
+76,CVE-2016-5316,"
+01/20/2017",4.0.6 and earlier,"
+4.3 MEDIUM",Out-of-bounds Read (CWE-125),4.0.6,/libtiff/tif_pixarlog.c,PixarLogCleanup ,https://nvd.nist.gov/vuln/detail/CVE-2016-5316#vulnDescriptionTitle
+92,CVE-2016-5315,3/7/2017,4.0.6 and earlier,4.3 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6,libtiff/tif_dir.c,setByteArray,https://nvd.nist.gov/vuln/detail/CVE-2016-5315
+86,CVE-2016-5102,2/6/2017,4.0.6,4.3 MEDIUM,Input Validation (CWE-20),4.0.6,/libtiff/tools/gif2tiff.c,readgifimage ,https://nvd.nist.gov/vuln/detail/CVE-2016-5102
+51,CVE-2016-3991,9/21/2016,4.0.6 and earlier ,6.8 MEDIUM,"Buffer Errors (CWE-119)
+Out-of-bounds Write (CWE-787)",4.0.6,‘libtiff/tools/tiffcrop.c’,LoadImage ,https://nvd.nist.gov/vuln/detail/CVE-2016-3991
+50,CVE-2016-3990,"
+09/21/2016",4.0.6 and earlier,6.8 MEDIUM,"Buffer Errors (CWE-119)
+Out-of-bounds Write (CWE-787)
+",4.0.6,/libtiff/tif_pixarlog.c,horizontalDifference8,https://nvd.nist.gov/vuln/detail/CVE-2016-3990
+49,CVE-2016-3945,9/21/2016,4.0.6 and earlier,6.8 MEDIUM,Integer Overflow or Wraparound (CWE-190)，Out-of-bounds Write (CWE-787),4.0.6,/libtiff/tools/tiff2rgba.c,(1) cvt_by_strip and (2) cvt_by_tile,https://nvd.nist.gov/vuln/detail/CVE-2016-3945
+62,CVE-2016-3658,10/3/2016,4.0.6 and earlier,5.0 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6,/libtiff/tif_dirwrite.c,TIFFWriteDirectoryTagLongLong8Array ,https://nvd.nist.gov/vuln/detail/CVE-2016-3658
+61,CVE-2016-3634,10/3/2016,4.0.6 and earlier,5.0 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6,/libtiff/tif_dirinfo.c ,tagCompare,https://nvd.nist.gov/vuln/detail/CVE-2016-3634
+60,CVE-2016-3633,10/3/2016,4.0.6 and earlier,5.0 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6,/libtiff/tools/thumbnail.c,Setrow,https://nvd.nist.gov/vuln/detail/CVE-2016-3633
+48,CVE-2016-3632,9/21/2016,4.0.6 and earlier ,6.8 MEDIUM,Out-of-bounds Write (CWE-787),4.0.6,/libtiff/tif_dirinfo.c,,https://nvd.nist.gov/vuln/detail/CVE-2016-3632
+59,CVE-2016-3631,10/3/2016,4.0.6 and earlier,5.0 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6,/libtiff/tools/thumbnail.c,(1) cpStrips and (2) cpTiles,https://nvd.nist.gov/vuln/detail/CVE-2016-3631
+58,CVE-2016-3625,10/3/2016,4.0.6 and earlier,4.3 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6,/libtiff/tif_read.c,,https://nvd.nist.gov/vuln/detail/CVE-2016-3625
+57,CVE-2016-3624,10/3/2016,4.0.6 and earlier,5.0 MEDIUM,Out-of-bounds Write (CWE-787),4.0.6,/libtiff/tools/rgb2ycbcr.c,cvtClump,https://nvd.nist.gov/vuln/detail/CVE-2016-3624
+56,CVE-2016-3623,10/3/2016,4.0.6 and earlier,5.0 MEDIUM,Divide By Zero (CWE-369),4.0.6,/libtiff/tools/rgb2ycbcr.c,cvtRaster,https://nvd.nist.gov/vuln/detail/CVE-2016-3623
+55,CVE-2016-3622,10/3/2016,4.0.6 and earlier,4.3 MEDIUM,Divide By Zero (CWE-369),4.0.6,/libtiff/tif_predict.c,fpAcc,https://nvd.nist.gov/vuln/detail/CVE-2016-3622#vulnDescriptionTitle
+54,CVE-2016-3621,10/3/2016,4.0.6 and earlier,6.8 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6,/libtiff/tif_lzw.c,LZWEncode,https://nvd.nist.gov/vuln/detail/CVE-2016-3621
+53,CVE-2016-3620,10/3/2016,4.0.6 and earlier,5.0 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6,/libtiff/tif_zip.c,ZIPEncode,https://nvd.nist.gov/vuln/detail/CVE-2016-3620
+52,CVE-2016-3619,10/3/2016,4.0.6 and earlier,4.3 MEDIUM,Out-of-bounds Read (CWE-125),4.0.6,/libtiff/tif_dumpmode.c,DumpModeEncode,https://nvd.nist.gov/vuln/detail/CVE-2016-3619
+47,CVE-2016-3186,4/19/2016,4.0.6,5.0 MEDIUM,Buffer Errors (CWE-119),4.0.6,/libtiff/tools/gif2tiff.c,readextension,https://nvd.nist.gov/vuln/detail/CVE-2016-3186
+112,CVE-2016-10371,5/10/2017,4.0.6,4.3 MEDIUM,Input Validation (CWE-20),4.0.6,/libtiff/tif_dirwrite.c,TIFFWriteDirectoryTagCheckedRational,https://nvd.nist.gov/vuln/detail/CVE-2016-10371
+99,CVE-2016-10272,3/24/2017,4.0.7,6.8 MEDIUM,Buffer Errors (CWE-119),4.0.7,libtiff/tif_next.c,NeXTDecode,https://nvd.nist.gov/vuln/detail/CVE-2016-10272#vulnDescriptionTitle
+98,CVE-2016-10271,3/24/2017,4.0.7,6.8 MEDIUM,Buffer Errors (CWE-119),4.0.7,libtiff/tif_fax3.c,_TIFFFax3fillruns,https://nvd.nist.gov/vuln/detail/CVE-2016-10271
+97,CVE-2016-10270,3/24/2017,4.0.7,6.8 MEDIUM,Out-of-bounds Read (CWE-125),4.0.7,libtiff/tif_read.c,"
+TIFFFillStrip",https://nvd.nist.gov/vuln/detail/CVE-2016-10270
+96,CVE-2016-10269,3/24/2017,4.0.7,6.8 MEDIUM,Out-of-bounds Read (CWE-125),4.0.7,libtiff/tif_unix.c,"
+_TIFFmemcpy",https://nvd.nist.gov/vuln/detail/CVE-2016-10269
+95,CVE-2016-10268,3/24/2017,4.0.7,6.8 MEDIUM,Integer Underflow (Wrap or Wraparound) (CWE-191),4.0.7,/libtiff/tools/tiffcp.c,,https://nvd.nist.gov/vuln/detail/CVE-2016-10268#vulnDescriptionTitle
+94,CVE-2016-10267,3/24/2017,4.0.7,4.3 MEDIUM,Divide By Zero (CWE-369),4.0.7,libtiff/tif_ojpeg.c,"
+OJPEGDecodeRaw",https://nvd.nist.gov/vuln/detail/CVE-2016-10267
+93,CVE-2016-10266,3/24/2017,4.0.7,"
+4.3 MEDIUM",Divide By Zero (CWE-369),4.0.7,libtiff/tif_read.c,TIFFReadEncodedStrip,https://nvd.nist.gov/vuln/detail/CVE-2016-10266
+91,CVE-2016-10095,3/1/2017,4.0.7,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.7,libtiff/tif_dir.c,_TIFFVGetField,https://nvd.nist.gov/vuln/detail/CVE-2016-10095
+90,CVE-2016-10094,3/1/2017,4.0.7,6.8 MEDIUM,Numeric Errors (CWE-189),4.0.7,/libtiff/tools/tiff2pdf.c,t2p_readwrite_pdf_image_tile,https://nvd.nist.gov/vuln/detail/CVE-2016-10094
+89,CVE-2016-10093,3/1/2017,4.0.7 ,6.8 MEDIUM,"Buffer Errors (CWE-119)
+Integer Overflow or Wraparound (CWE-190)",4.0.7,/libtiff/ tools/tiffcp.c,cpStripToTile,https://nvd.nist.gov/vuln/detail/CVE-2016-10093
+88,CVE-2016-10092,3/1/2017,4.0.7,6.8 MEDIUM,Buffer Errors (CWE-119),4.0.7,/libtiff/tif_unix.c ,_TIFFmemcpy,https://nvd.nist.gov/vuln/detail/CVE-2016-10092#vulnDescriptionTitle
+72,CVE-2015-8870,12/6/2016,4.0.4 and before,5.8 MEDIUM,"Integer Overflow or Wraparound (CWE-190)
+Input Validation (CWE-20)",3.9.5,/libtiff/tools/bmp2tiff.c,main,https://nvd.nist.gov/vuln/detail/CVE-2015-8870
+41,CVE-2015-8783,2/1/2016,UUnavailable,4.3 MEDIUM,Buffer Errors (CWE-119),UUnavailable,/libtiff/tif_luv.c,,https://nvd.nist.gov/vuln/detail/CVE-2015-8783
+40,CVE-2015-8782,2/1/2016,UUnavailable,4.3 MEDIUM,Buffer Errors (CWE-119),UUnavailable,/libtiff/tif_luv.c,,https://nvd.nist.gov/vuln/detail/CVE-2015-8782
+39,CVE-2015-8781,2/1/2016,UUnavailable,4.3 MEDIUM,Buffer Errors (CWE-119),UUnavailable,/libtiff/tif_luv.c,,https://nvd.nist.gov/vuln/detail/CVE-2015-8781
+45,CVE-2015-8683,4/13/2016,4.0.6,4.3 MEDIUM,Buffer Errors (CWE-119),UUnavailable,/libtiff/tif_getimage.c,,https://nvd.nist.gov/vuln/detail/CVE-2015-8683
+38,CVE-2015-8668,1/8/2016,4.0.6,7.5 HIGH,Buffer Errors (CWE-119),4.0.6,/libtiff/tif_packbits.c,PackBitsPreEncode,https://nvd.nist.gov/vuln/detail/CVE-2015-8668
+44,CVE-2015-8665,4/13/2016,4.0.6,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.6,/libtiff/tif_getimage.c,DECLAREContigPutFunc,https://nvd.nist.gov/vuln/detail/CVE-2015-8665
+46,CVE-2015-8487,4/13/2016,UUnavailable,4.3 MEDIUM,Buffer Errors (CWE-119),UUnavailable,/libtiff/tif_next.c,NeXTDecode,https://nvd.nist.gov/vuln/detail/CVE-2015-8784
+37,CVE-2015-7554,1/8/2016,4.0.6,7.5 HIGH,Security Features (CWE-254),4.0.6,/libtiff/tif_dir.c ,_TIFFVGetField,https://nvd.nist.gov/vuln/detail/CVE-2015-7554
+43,CVE-2015-1547,4/13/2016,4.0.6 and previous,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.3,/libtiff/tif_next.c,NeXTDecode,https://nvd.nist.gov/vuln/detail/CVE-2015-1547
+42,CVE-2014-9655,4/13/2016,4.0.6 and previous,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.3,/libtiff/tif_getimage.c  and /libtiff/tif_next.c,NeXTDecode,https://nvd.nist.gov/vuln/detail/CVE-2014-9655
+36,CVE-2014-9330,1/20/2015,4.0.3,5.0 MEDIUM,Numeric Errors (CWE-189),4.0.3,/libtiff/tools/bmp2tiff.c,,https://nvd.nist.gov/vuln/detail/CVE-2014-9330
+120,CVE-2014-8127,6/26/2017,4.0.3,4.3 MEDIUM,Out-of-bounds Read (CWE-125),4.0.3,/libtiff/tif_dir.c,,https://nvd.nist.gov/vuln/detail/CVE-2014-8127
+34,CVE-2013-4244,9/28/2013,4.0.3 and earlier,6.8 MEDIUM,Buffer Errors (CWE-119),4.0.3,/libtiff/tools/gif2tiff.c,,https://nvd.nist.gov/vuln/detail/CVE-2013-4244
+33,CVE-2013-4243,9/10/2013,4.0.3 and earlier ,6.8 MEDIUM,Buffer Errors (CWE-119),4.0.3,/libtiff/tools/gif2tiff.c,readgifimage,https://nvd.nist.gov/vuln/detail/CVE-2013-4243
+32,CVE-2013-4232,9/10/2013,4.0.3,6.8 MEDIUM,Resource Management Errors (CWE-399),4.0.3,/libtiff/tools/tiff2pdf.c,t2p_readwrite_pdf_image,https://nvd.nist.gov/vuln/detail/CVE-2013-4232#vulnDescriptionTitle
+35,CVE-2013-4231,1/19/2014,4.0.2 and earlier,4.3 MEDIUM,Buffer Errors (CWE-119),4.0.1,/libtiff/tools/gif2tiff.c and /libtiff/tools/rgb2ycbcr.c,readraster (in gif2tiff.c),https://nvd.nist.gov/vuln/detail/CVE-2013-4231
+31,CVE-2013-1961,7/3/2013,before 4.0.3,9.3 HIGH,Buffer Errors (CWE-119),3.9.1,/libtiff/tools/tiff2pdf.c,t2p_write_pdf_page,https://nvd.nist.gov/vuln/detail/CVE-2013-1961
+30,CVE-2013-1960,7/3/2013,4.0.3 and earlier,9.3 HIGH,Buffer Errors (CWE-119),3.9.1,/libtiff/tools/tiff2pdf.c,t2p_process_jpeg_strip,https://nvd.nist.gov/vuln/detail/CVE-2013-1960
+29,CVE-2012-5581,1/4/2013,before 4.0.2,6.8 MEDIUM,Buffer Errors (CWE-119),3.9.1,/libtiff/tif_dir.c,,https://nvd.nist.gov/vuln/detail/CVE-2012-5581
+28,CVE-2012-4447,10/28/2012,before 4.0.3,6.8 MEDIUM,Buffer Errors (CWE-119),3.9.1,/libtiff/tif_pixarlog.c,,https://nvd.nist.gov/vuln/detail/CVE-2012-4447
+27,CVE-2012-3401,8/13/2012,4.0.2 and earlier ,6.8 MEDIUM,Buffer Errors (CWE-119),3.9.1,/libtiff/tools/tiff2pdf.c,t2p_read_tiff_init function,https://nvd.nist.gov/vuln/detail/CVE-2012-3401
+26,CVE-2012-2113,7/22/2012,before 4.0.2,6.8 MEDIUM,Numeric Errors (CWE-189),3.9.0,/libtiff/tools/tiff2pdf.c,,https://nvd.nist.gov/vuln/detail/CVE-2012-2113
+25,CVE-2012-2088,7/22/2012,3.9.4  and earlier,7.5 HIGH,Numeric Errors (CWE-189),3.9.0,/libtiff/tif_dirread.c ,TIFFReadDirectory,https://nvd.nist.gov/vuln/detail/CVE-2012-2088
+24,CVE-2012-1173,6/4/2012,3.9.4,6.8 MEDIUM,Numeric Errors (CWE-189),3.9.4,/libtiff/tif_getimage.c,gtTileSeparate or gtStripSeparate ,https://nvd.nist.gov/vuln/detail/CVE-2012-1173
+21,CVE-2011-1167,3/28/2011,3.9.4 and earlier,6.8 MEDIUM,Buffer Errors (CWE-119),3.9.0,libtiff/tif_thunder.c,ThunderDecode,https://nvd.nist.gov/vuln/detail/CVE-2011-1167
+23,CVE-2010-4665,5/3/2011,before 3.9.5,4.3 MEDIUM,Numeric Errors (CWE-189),3.9.4,/libtiff/tools/tiffdump.c,,https://nvd.nist.gov/vuln/detail/CVE-2010-4665
+19,CVE-2010-2597,7/2/2010,3.9.0 and 3.9.2,4.3 MEDIUM,Input Validation (CWE-20),3.9.0,/libtiff/tif_strip.c,TIFFVStripSize ,https://nvd.nist.gov/vuln/detail/CVE-2010-2597
+18,CVE-2010-2596,7/2/2010,3.9.0 and 3.9.2,4.3 MEDIUM,Input Validation (CWE-20),3.9.0,/libtiff/tif_ojpeg.c,OJPEGPostDecode,https://nvd.nist.gov/vuln/detail/CVE-2010-2596
+20,CVE-2010-2483,7/6/2010,3.9.0,4.3 MEDIUM,Buffer Errors (CWE-119),3.9.0,/libtiff/tif_getimage.c,TIFFRGBAImageGet,https://nvd.nist.gov/vuln/detail/CVE-2010-2483
+16,CVE-2010-2443,6/24/2010,before 3.9.3,5.0 MEDIUM,Other (NVD-CWE-Other),3.8.0,/libtiff/tif_ojpeg.c,,https://nvd.nist.gov/vuln/detail/CVE-2010-2443#vulnDescriptionTitle
+17,CVE-2010-2233,7/2/2010,3.9.0 and 3.9.2,7.5 HIGH,Input Validation (CWE-20),3.9.0,/libtiff/tif_getimage.c,,https://nvd.nist.gov/vuln/detail/CVE-2010-2233
+15,CVE-2010-2067,6/24/2010,3.9.x,6.8 MEDIUM,Buffer Errors (CWE-119),3.9.1,/libtiff/tif_dirread.c,TIFFFetchSubjectDistance,https://nvd.nist.gov/vuln/detail/CVE-2010-2067
+14,CVE-2010-1411,6/17/2010,before 3.9.3,6.8 MEDIUM,Numeric Errors (CWE-189),3.8.0,/libtiff/tif_fax3.c,Fax3SetupState ,https://nvd.nist.gov/vuln/detail/CVE-2010-1411
+22,CVE-2009-5022,5/3/2011,before 3.9.5,6.8 MEDIUM,Buffer Errors (CWE-119),3.9.4,/libtiff/tif_ojpeg.c,OJPEGDecodeRaw,https://nvd.nist.gov/vuln/detail/CVE-2009-5022
+1,CVE-2009-2347,7/14/2009,3.8.0 - 4.0,9.3 HIGH,Numeric Errors (CWE-189),3.8.0,/tools/tiff2rgba,"cvt_whole_image,  tiffcvt",https://nvd.nist.gov/vuln/detail/CVE-2009-2347
+2,CVE-2009-2285,7/1/2009,3.8.2,4.3 MEDIUM,Buffer Errors (CWE-119),3.8.2,/libtiff/tif_lzw.c,LZWDecodeCompat,https://nvd.nist.gov/vuln/detail/CVE-2009-2285
+3,CVE-2008-2327,8/27/2008,3.8.2 - 3.4,6.8 MEDIUM,Buffer Errors (CWE-119),3.8.0,/libtiff/tif_lzw.c,"LZWDecode, LZWDecodeVector",https://nvd.nist.gov/vuln/detail/CVE-2008-2327
+4,CVE-2006-3459,8/2/2006,3.8.1 and before,7.5 HIGH,Buffer Errors (CWE-119),3.8.0,/libtiff/tif_dirread.c,TIFFFetchShortPair,https://nvd.nist.gov/vuln/detail/CVE-2006-3459
+13,CVE-2006-2193,6/8/2006,3.8.2 and earlier,7.5 HIGH,Buffer Errors (CWE-119),3.8.0,/libtiff/tools/tiff2pdf.c,t2p_write_pdf_string,https://nvd.nist.gov/vuln/detail/CVE-2006-2193
+12,CVE-2006-2026,4/25/2006,before 3.8.1,6.5 MEDIUM,Buffer Errors (CWE-119),3.8.0,/libtiff/tif_jpeg.c,,https://nvd.nist.gov/vuln/detail/CVE-2006-2026
+11,CVE-2006-2025,4/25/2006,before 3.8.1,6.5 MEDIUM,NVD-CWE-Other,3.8.0,/libtiff/tif_dirread.c,TIFFFetchData ,https://nvd.nist.gov/vuln/detail/CVE-2006-2025
+10,CVE-2006-2024,4/25/2006,before 3.8.1,4.0 MEDIUM,NVD-CWE-Other,3.8.0,/libtiff/tif_dirread.c,TIFFFetchAnyArray,https://nvd.nist.gov/vuln/detail/CVE-2006-2024
+9,CVE-2006-0405,1/24/2006,3.8.0,5.0 MEDIUM,NVD-CWE-Other,3.8.0,/libtiff/tif_dirread.c,TIFFFetchShortPair,https://nvd.nist.gov/vuln/detail/CVE-2006-0405
+8,CVE-2005-2452,8/3/2005,3.6.1,5.0 MEDIUM,NVD-CWE-Other,3.6.1,/libtiff/tif_strip.c and tif_tile.c,,https://nvd.nist.gov/vuln/detail/CVE-2005-2452
+5,CVE-2004-1307,12/21/2004,3.6.1,7.5 HIGH,Buffer Errors (CWE-119),3.6.1,/libtiff/tif_dirread.c,TIFFFetchStripThing ,https://nvd.nist.gov/vuln/detail/CVE-2004-1307
+7,CVE-2004-0929,1/27/2005,3.6.1 and earlier,10.0 HIGH,Buffer Errors (CWE-119),3.6.1,/libtiff/tif_ojpeg.c,OJPEGVSetField,https://nvd.nist.gov/vuln/detail/CVE-2004-0929
+6,CVE-2004-0803,12/23/2004,3.6.1 and earlier,7.5 HIGH,Buffer Errors (CWE-119),3.6.1,"/libtiff/tif_next.c, and /libtiff/tif_thunder.c, and libtiff/tif_luv.c","NeXTDecode, and ThunderDecode and LogL16Decode",https://nvd.nist.gov/vuln/detail/CVE-2004-0803
+73, CVE-2017-5225,1/12/2017,4.0.7,7.5 HIGH,Buffer Errors (CWE-119),4.0.7,/lilibtiff/tools/tiffcp.c ,,https://nvd.nist.gov/vuln/detail/CVE-2017-5225
